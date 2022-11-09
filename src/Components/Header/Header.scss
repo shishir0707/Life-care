@@ -1,0 +1,15 @@
+#navbar>ul {
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    padding-top: 13px;
+}
+
+// #navbar>ul>li {
+//     list-style-type: none;
+// }
+
+
+.header-bottom nav.main-menu ul.nav.navbar-nav > li a {
+    padding: 13px 20px !important;
+}

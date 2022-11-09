@@ -1,0 +1,45 @@
+#doctors {
+    background: #fff;
+}
+
+// .cstm {
+//     visibility: visible;
+//     animation-duration: 1s;
+//     animation-delay: 0.2s;
+//     animation-name: fadeIn;
+// }
+
+// .cstm1 {
+//     visibility: visible;
+//     animation-duration: 1s;
+//     animation-delay: 0.4s;
+//     animation-name: fadeIn;
+// }
+
+.widget {
+    background-color: #ffffff;
+    padding: 15px;
+}
+
+.clearfix>img {
+    width: 100%;
+    height: auto;
+}
+
+.img-rounded {
+    border-radius: 6px;
+}
+
+#doctors .widget h3 {
+    // display: inline-block;
+    font-size: 20px;
+    line-height: 1 !important;
+    margin: 0 !important;
+    padding: 15px 20px;
+    position: relative;
+    top: -25px;
+}
+
+.footer-social>a {
+    margin: 2px;
+}

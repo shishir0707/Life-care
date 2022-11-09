@@ -1,0 +1,18 @@
+.one {
+    background: #2895f1;
+    padding-right: 20px;
+}
+
+.middle {
+    background: #0071d1;
+    z-index: 2;
+}
+
+.three {
+    background: #0060b1;
+}
+
+.time-table-section>div {
+    display: flex;
+    flex-direction: row;
+}
