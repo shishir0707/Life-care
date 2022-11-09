@@ -8,7 +8,7 @@ const Price = () => {
             <div className="row">
                <div className="col-md-12">
                   <div className="tab-content">
-                     <div className="tab-pane active fade in" id="tab1">
+                     <div className="tab-pane active" id="tab1">
                         <div className="row text-center">
                            <div className="col-md-4">
                               <div className="pricing-table">
